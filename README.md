@@ -32,3 +32,5 @@ An AI-based image caption generator.
 **Kiran Ganesh**
 
 Completed as part of the **CodeSoft Internship**.
+
+⭐ If you like this repository, don't forget to star it!
